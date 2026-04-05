@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Suriya Prakash E S
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suriya+Prakash+E+S;Full+Stack+Developer;AI+Enthusiast)
+👋 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suriya+Prakash+E+S)
 
-🚀 Full Stack Developer | MERN Stack Enthusiast
-🤖 Passionate about AI, Real-Time Systems & Scalable Applications
-💡 Building impactful solutions with clean UI & efficient backend
-
+💻 Aspiring Full Stack Developer (MERN Stack)  
+🤖 Interested in Artificial Intelligence, Real-Time Systems, and Scalable Applications  
+💡 Focused on building efficient, user-friendly solutions with clean UI and robust backend
 ---
 
 ## 🧠 About Me
 
-* 💻 I build modern web applications using the MERN stack
-* 🔍 Interested in web development & automation systems
+* 🔍 Interested in AI,web development & automation systems
 * ⚡ Love solving complex problems and optimizing performance
 * 🎯 Goal: Become a top-tier Software Engineer
 
@@ -19,43 +16,39 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-* React.js, Vite, Tailwind CSS, Bootstrap framework
-
-**Backend**
-
-* Node.js, Express.js
-
-**Database**
-
-* MongoDB,Firebase
-
-**Tools & Platforms**
-
-* Git, GitHub, Postman , canva
-
----
-
----
-
-## 📊 GitHub Stats
-
-![Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURIYA-PRAKASH-E-S\&show_icons=true\&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn:[Suriya Prakash E S](https://www.linkedin.com/in/suriya-prakash-e-s)
-* 📧 Email:[suriyaprakashes@gmail.com](suriyaprakashes@gmail.com)
-* 
+* 💼 LinkedIn: ![Suriya Prakash E S](https://www.linkedin.com/in/suriya-prakash-e-s)
+* 📧 Email: ![suriyaprakashes@gmail.com](suriyaprakashes@gmail.com)
 
 ---
 ## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+<p>
+  <a href="https://suriyaes-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
@@ -66,4 +59,3 @@
 
 *"Code. Build. Scale. Repeat."*
 
----
