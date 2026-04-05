@@ -1,9 +1,12 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=👋Hi%2C+I'm+Suriya+Prakash+E+S)
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Suriya%20Prakash%20E%20S" />
+
 
 <p align="center">
 💻 Aspiring Full Stack Developer (MERN Stack) | 🤖 Interested in Artificial Intelligence, Real-Time Systems & Scalable Applications | 💡 Focused on building efficient, user-friendly solutions with clean UI & robust backend
 </p>
+
 ---
+
 ## 🧠 About Me
 
 * 🔍 Interested in AI,web development & automation systems
@@ -38,8 +41,8 @@
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: ![Suriya Prakash E S](https://www.linkedin.com/in/suriya-prakash-e-s)
-* 📧 Email: ![suriyaprakashes@gmail.com](suriyaprakashes@gmail.com)
+* 💼 LinkedIn: [Suriya Prakash E S](https://www.linkedin.com/in/suriya-prakash-e-s)
+* 📧 Email: [suriyaprakashes@gmail.com](suriyaprakashes@gmail.com)
 
 ---
 ## 🌐 Portfolio
