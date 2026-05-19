@@ -2,7 +2,7 @@
 
 
 <p align="center">
-💻 Aspiring Full Stack Developer (MERN Stack) | 🤖 Interested in Artificial Intelligence, Real-Time Systems & Scalable Applications | 💡 Focused on building efficient, user-friendly solutions with clean UI & robust backend
+💻 Aspiring Software developer | 🤖 Interested in Artificial Intelligence, Real-Time Systems & Scalable Applications | 💡 Focused on building efficient, user-friendly solutions with clean UI & robust backend
 </p>
 
 ---
